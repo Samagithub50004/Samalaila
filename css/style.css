@@ -1,0 +1,13 @@
+body{
+  color: rgb(160,37,240);
+  font-family: arial;
+  margin: 0px;
+}
+h1,h2 {
+  text-align: center;
+}
+img{
+  border-radius: 50%;
+}
+li:hover{font-size:1.2em
+}
